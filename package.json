@@ -1,0 +1,22 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "description": "sample project for my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-john/realestate.git"
+  },
+  "author": "John Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-john/realestate/issues"
+  },
+  "homepage": "https://github.com/super-john/realestate#readme",
+  "dependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
